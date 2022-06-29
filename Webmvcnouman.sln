@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webmvcnouman", "Webmvcnouman\Webmvcnouman.csproj", "{B8F009D7-CE21-450E-9E26-1838CE9CD47E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8F009D7-CE21-450E-9E26-1838CE9CD47E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F009D7-CE21-450E-9E26-1838CE9CD47E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F009D7-CE21-450E-9E26-1838CE9CD47E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F009D7-CE21-450E-9E26-1838CE9CD47E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03E09800-A911-430D-BC9D-706C092B45DA}
+	EndGlobalSection
+EndGlobal
